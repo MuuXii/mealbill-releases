@@ -3,5 +3,5 @@
   "versionName": "1.2.0",
   "apkUrl": "https://github.com/MuuXii/mealbill-releases/releases/download/v1.2.0/MealBill-1.2.0.apk",
   "sha256": "813184837edf4e25d5f9f4426c398bfdb75faa763818fdaceeda9ee179975827",
-  "changelog": "fix: 修正 CI Android SDK 安装与 gradlew 权限"
+  "changelog": "Invite-only registration with captcha; system admin invite and account management; in-app update with SHA-256 and signing certificate pinning; order and settings UI fixes."
 }
