@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.1.2",
-  "apkUrl": "",
-  "sha256": "",
-  "changelog": "1.2.0 发布准备中。"
+  "versionCode": 5,
+  "versionName": "1.2.0",
+  "apkUrl": "https://github.com/MuuXii/mealbill-releases/releases/download/v1.2.0/MealBill-1.2.0.apk",
+  "sha256": "813184837edf4e25d5f9f4426c398bfdb75faa763818fdaceeda9ee179975827",
+  "changelog": "fix: 修正 CI Android SDK 安装与 gradlew 权限"
 }
