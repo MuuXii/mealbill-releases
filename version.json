@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.2.2",
-  "apkUrl": "https://github.com/MuuXii/mealbill-releases/releases/download/v1.2.2/MealBill-1.2.2.apk",
-  "sha256": "fd1593d40bd0949e1cafaddd5e11e6a391a6083aed17c8ead2dea31e97dea20f",
-  "changelog": "feat: 二级页改用 dsh-Go 同款视差转场"
+  "versionCode": 8,
+  "versionName": "1.2.3",
+  "apkUrl": "https://github.com/MuuXii/mealbill-releases/releases/download/v1.2.3/MealBill-1.2.3.apk",
+  "sha256": "03f4533f93b7a4c5627de5082ddc93e86ffda960d7b87b6635b0c32a771742e7",
+  "changelog": "fix: 重构根布局修复二级页转场尺寸跳动"
 }
