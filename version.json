@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.2.1",
-  "apkUrl": "https://github.com/MuuXii/mealbill-releases/releases/download/v1.2.1/MealBill-1.2.1.apk",
-  "sha256": "72130275c067744777a8b13828f6d0c239a43ae58d98fc1d59bca1dfcbcc996d",
-  "changelog": "feat: About 增加检查更新与版本信息，优化二级页转场"
+  "versionCode": 7,
+  "versionName": "1.2.2",
+  "apkUrl": "https://github.com/MuuXii/mealbill-releases/releases/download/v1.2.2/MealBill-1.2.2.apk",
+  "sha256": "fd1593d40bd0949e1cafaddd5e11e6a391a6083aed17c8ead2dea31e97dea20f",
+  "changelog": "feat: 二级页改用 dsh-Go 同款视差转场"
 }
