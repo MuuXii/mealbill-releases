@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.2.3",
-  "apkUrl": "https://github.com/MuuXii/mealbill-releases/releases/download/v1.2.3/MealBill-1.2.3.apk",
-  "sha256": "03f4533f93b7a4c5627de5082ddc93e86ffda960d7b87b6635b0c32a771742e7",
-  "changelog": "fix: 重构根布局修复二级页转场尺寸跳动"
+  "versionCode": 9,
+  "versionName": "1.2.4",
+  "apkUrl": "https://github.com/MuuXii/mealbill-releases/releases/download/v1.2.4/MealBill-1.2.4.apk",
+  "sha256": "b4e6cfa8f600b022781b8021033b9a9ccb2e9fa25018167b2348402959cf122e",
+  "changelog": "fix: 修复成员详情与记录页背景纯黑"
 }
