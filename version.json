@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.2.0-test",
-  "apkUrl": "https://github.com/MuuXii/mealbill-releases/releases/download/v1.2.0-test/MealBill-1.2.0-test.apk",
-  "sha256": "a7f19872142e2a9c2d8fedc016111b93cae373e121d29890872d88199e440103",
-  "changelog": "测试更新检查：邀请码注册、系统管理、图片缓存与安全校验。"
+  "versionCode": 4,
+  "versionName": "1.1.2",
+  "apkUrl": "",
+  "sha256": "",
+  "changelog": "1.2.0 发布准备中。"
 }
