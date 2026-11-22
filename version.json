@@ -3,5 +3,5 @@
   "versionName": "1.3.12",
   "apkUrl": "https://github.com/MuuXii/mealbill-releases/releases/download/v1.3.12/MealBill-1.3.12.apk",
   "sha256": "0c0c71437376e5778bb98a9f091a6d7ac6b97c680724932dcf056270cbf69911",
-  "changelog": "docs: 发布 1.3.12"
+  "changelog": "更新下载进度与速度；照片区精简；自动抓图修复；未到可接单与编辑保留；图片展示与回看。"
 }
