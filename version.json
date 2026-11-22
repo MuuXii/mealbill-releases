@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.2.4",
-  "apkUrl": "https://github.com/MuuXii/mealbill-releases/releases/download/v1.2.4/MealBill-1.2.4.apk",
-  "sha256": "b4e6cfa8f600b022781b8021033b9a9ccb2e9fa25018167b2348402959cf122e",
-  "changelog": "fix: 修复成员详情与记录页背景纯黑"
+  "versionCode": 22,
+  "versionName": "1.3.12",
+  "apkUrl": "https://github.com/MuuXii/mealbill-releases/releases/download/v1.3.12/MealBill-1.3.12.apk",
+  "sha256": "0c0c71437376e5778bb98a9f091a6d7ac6b97c680724932dcf056270cbf69911",
+  "changelog": "docs: 发布 1.3.12"
 }
