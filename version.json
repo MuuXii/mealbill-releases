@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "1.3.13",
-  "apkUrl": "https://github.com/MuuXii/mealbill-releases/releases/download/v1.3.13/MealBill-1.3.13.apk",
-  "sha256": "3aa7c9c0d6b92bd4a210cf2616414a3cd0222a63a5d4ebfd46c771424edd1e4d",
-  "changelog": "chore: 发布 1.3.13"
+  "versionCode": 31,
+  "versionName": "1.3.14",
+  "apkUrl": "https://github.com/MuuXii/mealbill-releases/releases/download/v1.3.14/MealBill-1.3.14.apk",
+  "sha256": "0e3f10b171fede26447709eb3db4caacff2e54bca1ae47bdc861267156dc8074",
+  "changelog": "chore: 发布 1.3.14"
 }
